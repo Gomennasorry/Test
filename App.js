@@ -1,8 +1,9 @@
+//KUY ALL
 import './App.css';
 import React from 'react'
 import movies from './movies'
 
-//Testt
+
 
 class App extends React.Component {
   constructor(props) {
